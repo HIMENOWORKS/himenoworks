@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <b>👋 Hi there!</b>
+</p>
 
 <!--
 **HIMENOWORKS/himenoworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
